@@ -1,0 +1,390 @@
+Cube: 7 X 7 X 7
+25 Particles with 50 Energy
+
+Level 1
+**  **  **  **  **  **  **  
+R0  R0  R0  R0  R0  R0  R0  
+E0  E0  E0  E0  E0  E0  E0  
+
+**  **  **  **  **  **  **  
+R0  R0  R0  R0  R0  R0  R0  
+E0  E0  E0  E0  E0  E0  E0  
+
+**  **  **  **  **  **  **  
+R0  R0  R0  R0  R0  R0  R0  
+E0  E0  E0  E0  E0  E0  E0  
+
+**  **  **  **  **  **  **  
+R0  R0  R0  R0  R0  R0  R0  
+E0  E0  E0  E0  E0  E0  E0  
+
+**  **  **  **  **  **  **  
+R0  R0  R0  R0  R0  R0  R0  
+E0  E0  E1  E0  E0  E0  E0  
+
+**  **  **  **  **  **  **  
+R0  R1  R0  R0  R0  R0  R0  
+E0  E0  E0  E0  E0  E0  E0  
+
+**  **  **  **  **  **  **  
+R0  R0  R0  R0  R0  R0  R0  
+E0  E0  E0  E0  E0  E0  E0  
+
+
+Level 2
+**  **  **  **  **  **  **  
+R0  R0  R0  R0  R0  R0  R0  
+E0  E0  E0  E0  E0  E0  E0  
+
+**  **  **  **  **  **  **  
+R1  R0  R0  R0  R0  R0  R0  
+E0  E0  E0  E0  E0  E0  E0  
+
+**  **  **  **  **  **  **  
+R0  R0  R0  R1  R0  R0  R0  
+E0  E0  E0  E0  E0  E0  E0  
+
+**  **  **  **  **  **  **  
+R0  R0  R0  R0  R0  R0  R0  
+E0  E0  E0  E0  E0  E0  E1  
+
+**  **  **  **  **  **  **  
+R0  R0  R0  R0  R0  R0  R0  
+E0  E0  E0  E0  E0  E0  E0  
+
+**  **  **  **  **  **  **  
+R0  R0  R0  R0  R0  R0  R0  
+E0  E0  E0  E0  E0  E0  E0  
+
+**  **  **  **  **  **  **  
+R0  R0  R0  R0  R0  R0  R0  
+E0  E0  E0  E0  E0  E0  E0  
+
+
+Level 3
+**  **  **  **  **  **  **  
+R0  R1  R0  R0  R0  R0  R0  
+E0  E0  E0  E0  E0  E0  E0  
+
+**  **  **  **  **  **  **  
+R0  R0  R0  R0  R1  R1  R0  
+E0  E0  E0  E0  E0  E0  E0  
+
+**  **  B0  B0  B1  **  **  
+R0  R0  R0  R0  R0  R0  R0  
+E0  E0  E0  E0  E0  E0  E0  
+
+**  **  B0  B1  B2  **  **  
+R0  R0  R0  R0  R0  R0  R0  
+E0  E0  E0  E0  E0  E0  E0  
+
+**  **  B2  B1  B2  **  **  
+R0  R0  R0  R1  R0  R1  R0  
+E0  E0  E0  E0  E0  E0  E0  
+
+**  **  **  **  **  **  **  
+R0  R0  R0  R0  R0  R0  R0  
+E0  E0  E0  E0  E0  E0  E0  
+
+**  **  **  **  **  **  **  
+R0  R0  R0  R0  R0  R0  R0  
+E0  E0  E0  E0  E0  E0  E0  
+
+
+Level 4
+**  **  **  **  **  **  **  
+R0  R0  R0  R0  R0  R0  R0  
+E0  E0  E0  E0  E0  E0  E0  
+
+**  **  **  **  **  **  **  
+R0  R0  R0  R0  R0  R0  R0  
+E0  E0  E0  E0  E0  E0  E1  
+
+**  **  B0  B3  B1  **  **  
+R0  R1  R0  R0  R0  R0  R0  
+E0  E0  E0  E0  E0  E0  E0  
+
+**  **  B1  B0  B0  **  **  
+R0  R0  R0  R0  R0  R0  R0  
+E0  E0  E0  E0  E0  E0  E0  
+
+**  **  B0  B0  B0  **  **  
+R0  R0  R0  R0  R1  R0  R0  
+E0  E0  E0  E0  E0  E0  E0  
+
+**  **  **  **  **  **  **  
+R0  R0  R0  R0  R0  R0  R0  
+E0  E0  E0  E0  E0  E0  E0  
+
+**  **  **  **  **  **  **  
+R0  R0  R0  R0  R0  R0  R1  
+E0  E0  E0  E0  E0  E0  E0  
+
+
+Level 5
+**  **  **  **  **  **  **  
+R0  R0  R0  R0  R0  R0  R0  
+E0  E0  E0  E0  E0  E0  E0  
+
+**  **  **  **  **  **  **  
+R0  R0  R0  R0  R0  R0  R0  
+E0  E0  E0  E0  E0  E0  E0  
+
+**  **  B3  B3  B1  **  **  
+R0  R0  R0  R0  R1  R0  R0  
+E0  E0  E0  E0  E0  E0  E0  
+
+**  **  B1  B1  B0  **  **  
+R0  R0  R1  R0  R0  R0  R0  
+E0  E0  E0  E0  E0  E0  E0  
+
+**  **  B1  B0  B1  **  **  
+R0  R0  R0  R0  R0  R0  R0  
+E0  E0  E0  E0  E0  E0  E0  
+
+**  **  **  **  **  **  **  
+R0  R0  R0  R0  R0  R0  R0  
+E0  E0  E0  E0  E0  E0  E0  
+
+**  **  **  **  **  **  **  
+R0  R0  R0  R0  R0  R0  R0  
+E0  E0  E0  E0  E0  E0  E0  
+
+
+Level 6
+**  **  **  **  **  **  **  
+R0  R0  R0  R0  R0  R0  R0  
+E0  E0  E0  E1  E0  E0  E0  
+
+**  **  **  **  **  **  **  
+R0  R0  R1  R0  R0  R0  R0  
+E0  E0  E0  E0  E0  E0  E0  
+
+**  **  **  **  **  **  **  
+R0  R0  R0  R0  R0  R0  R0  
+E0  E0  E0  E0  E0  E0  E0  
+
+**  **  **  **  **  **  **  
+R0  R0  R0  R0  R0  R0  R1  
+E0  E0  E0  E0  E0  E0  E0  
+
+**  **  **  **  **  **  **  
+R0  R0  R1  R0  R0  R0  R0  
+E0  E0  E0  E0  E0  E0  E0  
+
+**  **  **  **  **  **  **  
+R0  R1  R0  R0  R0  R0  R0  
+E0  E0  E0  E0  E0  E0  E0  
+
+**  **  **  **  **  **  **  
+R0  R0  R0  R0  R0  R0  R0  
+E0  E0  E0  E0  E0  E0  E0  
+
+
+Level 7
+**  **  **  **  **  **  **  
+R0  R1  R0  R0  R0  R0  R0  
+E0  E0  E0  E1  E0  E0  E0  
+
+**  **  **  **  **  **  **  
+R0  R0  R0  R0  R0  R0  R0  
+E0  E0  E0  E0  E0  E0  E0  
+
+**  **  **  **  **  **  **  
+R0  R0  R0  R0  R0  R0  R0  
+E0  E0  E0  E0  E0  E0  E0  
+
+**  **  **  **  **  **  **  
+R0  R1  R0  R0  R0  R0  R0  
+E0  E0  E0  E0  E0  E0  E0  
+
+**  **  **  **  **  **  **  
+R0  R0  R0  R1  R0  R0  R0  
+E0  E0  E0  E0  E0  E0  E0  
+
+**  **  **  **  **  **  **  
+R0  R0  R0  R0  R0  R0  R0  
+E0  E0  E0  E0  E0  E0  E0  
+
+**  **  **  **  **  **  **  
+R0  R0  R0  R0  R0  R0  R0  
+E0  E0  E0  E0  E0  E0  E0  
+
+
+Statistics
+% of Particles Remaining in core: 16.00%
+% of Particles Remaining in Shield: 64.00%
+% of Particle's That Escaped: 20.00%
+
+
+Particles:
+
+Particle 1
+Died in Location 1  2  3
+
+Locations Visited More Than Once
+ 1   2   3 | 3 Times
+
+
+Particle 2
+Escaped From Location 6  0  3
+
+Locations Visited More Than Once
+NONE
+
+Particle 3
+Died in Location 3  6  6
+
+Locations Visited More Than Once
+NONE
+
+Particle 4
+Escaped From Location 1  3  6
+
+Locations Visited More Than Once
+NONE
+
+Particle 5
+Died in Location 5  4  2
+
+Locations Visited More Than Once
+ 4   2   3 | 2 Times
+
+
+Particle 6
+Escaped From Location 3  1  6
+
+Locations Visited More Than Once
+ 3   2   6 | 2 Times
+
+
+Particle 7
+Died in Location 6  0  1
+
+Locations Visited More Than Once
+NONE
+
+Particle 8
+Died in Location 5  3  6
+
+Locations Visited More Than Once
+NONE
+
+Particle 9
+Died in Location 4  3  2
+
+Locations Visited More Than Once
+ 4   3   1 | 2 Times
+ 4   3   2 | 3 Times
+
+
+Particle 10
+Died in Location 2  1  5
+
+Locations Visited More Than Once
+ 2   2   6 | 2 Times
+ 2   3   6 | 2 Times
+
+
+Particle 11
+Escaped From Location 0  4  2
+
+Locations Visited More Than Once
+NONE
+
+Particle 12
+Died in Location 6  3  1
+
+Locations Visited More Than Once
+NONE
+
+Particle 13
+Died in Location 2  4  5
+
+Locations Visited More Than Once
+NONE
+
+Particle 14
+Died in Location 2  4  3
+
+Locations Visited More Than Once
+ 1   4   4 | 2 Times
+ 2   4   4 | 3 Times
+
+
+Particle 15
+Died in Location 1  1  0
+
+Locations Visited More Than Once
+NONE
+
+Particle 16
+Died in Location 5  5  1
+
+Locations Visited More Than Once
+NONE
+
+Particle 17
+Escaped From Location 5  0  3
+
+Locations Visited More Than Once
+NONE
+
+Particle 18
+Died in Location 2  0  1
+
+Locations Visited More Than Once
+NONE
+
+Particle 19
+Died in Location 2  1  4
+
+Locations Visited More Than Once
+ 2   1   4 | 2 Times
+
+
+Particle 20
+Died in Location 5  1  2
+
+Locations Visited More Than Once
+ 5   2   2 | 2 Times
+
+
+Particle 21
+Died in Location 4  2  4
+
+Locations Visited More Than Once
+ 4   2   2 | 2 Times
+ 5   2   2 | 2 Times
+ 5   2   3 | 2 Times
+
+
+Particle 22
+Died in Location 3  2  1
+
+Locations Visited More Than Once
+NONE
+
+Particle 23
+Died in Location 0  5  1
+
+Locations Visited More Than Once
+ 1   4   2 | 2 Times
+
+
+Particle 24
+Died in Location 6  4  3
+
+Locations Visited More Than Once
+ 4   2   3 | 2 Times
+
+
+Particle 25
+Died in Location 3  4  4
+
+Locations Visited More Than Once
+ 2   4   4 | 2 Times
+ 2   4   5 | 2 Times
+ 2   5   5 | 2 Times
+
+
